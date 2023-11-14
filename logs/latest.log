@@ -1,0 +1,335 @@
+[02:21:44] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:21:44] [ServerMain/INFO]: Loaded 7 recipes
+[02:21:44] [ServerMain/INFO]: Loaded 1271 advancements
+[02:21:45] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[02:21:45] [Server thread/INFO]: Loading properties
+[02:21:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:21:45] [Server thread/INFO]: Generating keypair
+[02:21:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:21:45] [Server thread/INFO]: Using epoll channel type
+[02:21:45] [Server thread/INFO]: Preparing level "world"
+[02:21:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:21:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:21:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:48] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[02:21:49] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:21:49] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[02:21:50] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[02:21:50] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[02:21:51] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[02:21:51] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[02:21:52] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[02:21:52] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[02:21:53] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[02:21:53] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[02:21:54] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[02:21:54] [Worker-Main-1/INFO]: Preparing spawn area: 43%
+[02:21:55] [Worker-Main-1/INFO]: Preparing spawn area: 48%
+[02:21:55] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[02:21:56] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[02:21:56] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[02:21:57] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[02:21:57] [Worker-Main-3/INFO]: Preparing spawn area: 74%
+[02:21:58] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[02:21:58] [Worker-Main-3/INFO]: Preparing spawn area: 84%
+[02:21:59] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[02:21:59] [Worker-Main-1/INFO]: Preparing spawn area: 92%
+[02:22:00] [Worker-Main-3/INFO]: Preparing spawn area: 98%
+[02:22:00] [Server thread/INFO]: Time elapsed: 12642 ms
+[02:22:00] [Server thread/INFO]: Done (15.349s)! For help, type "help"
+[02:22:15] [Server thread/INFO]: Added dongha28 to the whitelist
+[02:22:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:22:18] [Server thread/INFO]: whiteliad add Wnynya<--[HERE]
+[02:22:25] [Server thread/INFO]: Added Wnynya to the whitelist
+[02:22:28] [User Authenticator #1/INFO]: UUID of player Wnynya is 6850a271-b6b2-42f2-93db-0155d6a3bd30
+[02:22:28] [Server thread/INFO]: Disconnecting Wnynya (/14.39.174.238:49614): You are not white-listed on this server!
+[02:22:28] [Server thread/INFO]: Wnynya (/14.39.174.238:49614) lost connection: You are not white-listed on this server!
+[02:22:28] [Server thread/WARN]: handleDisconnection() called twice
+[02:22:32] [User Authenticator #2/INFO]: UUID of player dongha28 is cc171ebd-3c5b-4cf5-856c-05650d8f5ccd
+[02:22:33] [Server thread/INFO]: dongha28[/170.140.105.11:17011] logged in with entity id 548 at (-5.5, 71.0, -6.5)
+[02:22:33] [Server thread/INFO]: dongha28 joined the game
+[02:22:36] [Server thread/INFO]: dongha28 lost connection: Disconnected
+[02:22:36] [Server thread/INFO]: dongha28 left the game
+[02:23:23] [Server thread/INFO]: Reloaded the whitelist
+[02:23:26] [User Authenticator #3/INFO]: UUID of player Wnynya is 6850a271-b6b2-42f2-93db-0155d6a3bd30
+[02:23:26] [Server thread/INFO]: Wnynya[/14.39.174.238:49735] logged in with entity id 693 at (7.5, 69.0, 10.5)
+[02:23:26] [Server thread/INFO]: Wnynya joined the game
+[02:23:33] [Server thread/INFO]: Made Wnynya a server operator
+[02:23:33] [User Authenticator #4/INFO]: UUID of player dongha28 is cc171ebd-3c5b-4cf5-856c-05650d8f5ccd
+[02:23:34] [Server thread/INFO]: dongha28[/170.140.105.11:14597] logged in with entity id 759 at (-5.5, 71.0, -6.5)
+[02:23:34] [Server thread/INFO]: dongha28 joined the game
+[02:24:07] [Server thread/INFO]: [Wnynya: Teleported Wnynya to 50.500000, 1000.000000, 1000.500000]
+[02:24:07] [Server thread/WARN]: Wnynya moved too quickly! 44.16418508691008,932.0,985.7775076582534
+[02:24:07] [Server thread/WARN]: Wnynya moved too quickly! 44.16418508691008,932.0,985.7775076582534
+[02:24:09] [Server thread/WARN]: Wnynya moved too quickly! 0.0,-10.221069856431768,0.0
+[02:24:11] [Server thread/WARN]: Wnynya moved too quickly! 0.0,-11.4336432806233,0.0
+[02:24:16] [Server thread/INFO]: [Wnynya: Teleported Wnynya to 50.500000, 200.000000, 1000.500000]
+[02:24:16] [Server thread/WARN]: Wnynya moved too quickly! 0.0,-565.1102400046788,0.0
+[02:24:16] [Server thread/WARN]: Wnynya moved too quickly! 0.0,-565.1102400046788,0.0
+[02:24:19] [Server thread/INFO]: [Wnynya: Set own game mode to Creative Mode]
+[02:25:07] [Server thread/INFO]: [Wnynya: Set the world spawn point to 203, 131, 1013 [0.0]]
+[02:25:10] [Server thread/INFO]: [Wnynya: Teleported dongha28 to Wnynya]
+[02:25:14] [Server thread/INFO]: [Wnynya: Set spawn point to 203, 131, 1013 [0.0] in minecraft:overworld for 2 players]
+[02:25:19] [Server thread/INFO]: [Wnynya: Set own game mode to Survival Mode]
+[02:26:32] [Server thread/INFO]: Made Wnynya no longer a server operator
+[02:27:06] [Server thread/INFO]: The difficulty has been set to Peaceful
+[02:27:51] [Server thread/INFO]: Wnynya has made the advancement [Stone Age]
+[02:28:06] [Server thread/INFO]: Wnynya has made the advancement [Getting an Upgrade]
+[02:28:32] [Server thread/INFO]: Added RC_mushroom to the whitelist
+[02:28:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:28:37] [Server thread/INFO]: whiteliad add jho5245<--[HERE]
+[02:28:42] [Server thread/INFO]: Added jho5245 to the whitelist
+[02:28:48] [Server thread/INFO]: Added gusen1116 to the whitelist
+[02:28:59] [Server thread/INFO]: Added wousing_ to the whitelist
+[02:29:09] [Server thread/INFO]: Added Ai_vo to the whitelist
+[02:29:51] [Server thread/INFO]: dongha28 has made the advancement [Stone Age]
+[02:31:27] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[02:31:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:31:48] [Server thread/INFO]: exexute in world run gamerule keepInventory true<--[HERE]
+[02:31:53] [Server thread/INFO]: Made Wnynya a server operator
+[02:32:14] [Server thread/INFO]: [Wnynya: Gamerule keepInventory is now set to: true]
+[02:32:19] [Server thread/INFO]: [Wnynya: Gamerule keepInventory is now set to: true]
+[02:32:23] [Server thread/INFO]: [Wnynya: Gamerule keepInventory is now set to: true]
+[02:52:09] [Server thread/INFO]: [Wnynya: Saved the game]
+[03:11:44] [Server thread/INFO]: dongha28 fell from a high place
+[03:13:23] [Server thread/INFO]: Wnynya has made the advancement [Acquire Hardware]
+[03:13:36] [Server thread/INFO]: Wnynya has made the advancement [Isn't It Iron Pick]
+[03:13:42] [Server thread/INFO]: Wnynya has made the advancement [Diamonds!]
+[03:22:02] [User Authenticator #5/INFO]: UUID of player gusen1116 is 517271e2-ac36-44a2-b980-fc8df0c99ad7
+[03:22:02] [Server thread/INFO]: gusen1116[/211.193.87.38:5554] logged in with entity id 10909 at (193.5, 99.0, 1023.5)
+[03:22:02] [Server thread/INFO]: gusen1116 joined the game
+[03:25:49] [Server thread/INFO]: gusen1116 has made the advancement [Acquire Hardware]
+[03:26:00] [Server thread/INFO]: gusen1116 has made the advancement [Stone Age]
+[03:26:07] [Server thread/INFO]: gusen1116 has made the advancement [Getting an Upgrade]
+[03:26:36] [User Authenticator #6/INFO]: UUID of player Ai_vo is 94335522-0b70-4365-8ad3-ecd74c77d8a3
+[03:26:37] [Server thread/INFO]: Ai_vo[/116.43.223.92:8953] logged in with entity id 11698 at (205.5, 137.0, 1018.5)
+[03:26:37] [Server thread/INFO]: Ai_vo joined the game
+[03:26:41] [Server thread/INFO]: <Ai_vo> gd
+[03:26:51] [Server thread/INFO]: <dongha28> hello
+[03:27:04] [Server thread/INFO]: Ai_vo fell from a high place
+[03:27:05] [Server thread/WARN]: Ai_vo moved too quickly! 20.319794717655896,59.0,-12.918118598486672
+[03:27:16] [User Authenticator #7/INFO]: UUID of player jho5245 is 4962252e-347b-4711-b418-3d1afae250b1
+[03:27:16] [Server thread/INFO]: jho5245[/112.165.90.135:6896] logged in with entity id 11899 at (202.5, 136.0, 1007.5)
+[03:27:16] [Server thread/INFO]: jho5245 joined the game
+[03:29:02] [Server thread/INFO]: jho5245 fell from a high place
+[03:29:03] [Server thread/WARN]: jho5245 moved too quickly! 45.910854898165326,61.0,56.6797250154267
+[03:29:03] [Server thread/WARN]: jho5245 moved too quickly! 45.910854898165326,61.0,56.6797250154267
+[03:29:49] [Server thread/INFO]: jho5245 has made the advancement [Stone Age]
+[03:30:10] [Server thread/INFO]: jho5245 has made the advancement [Getting an Upgrade]
+[03:31:31] [Server thread/INFO]: dongha28 has made the advancement [Ice Bucket Challenge]
+[03:31:53] [Server thread/INFO]: Ai_vo has made the advancement [Stone Age]
+[03:32:24] [Server thread/INFO]: Ai_vo has made the advancement [Getting an Upgrade]
+[03:35:25] [Server thread/INFO]: Wnynya has made the advancement [Sweet Dreams]
+[03:35:25] [Server thread/INFO]: jho5245 fell off a ladder
+[03:35:54] [Server thread/INFO]: [Wnynya: Gamerule playersSleepingPercentage is now set to: 0]
+[03:35:58] [Server thread/INFO]: dongha28 has made the advancement [Sweet Dreams]
+[03:37:01] [Server thread/INFO]: jho5245 fell from a high place
+[03:37:02] [Server thread/WARN]: jho5245 moved too quickly! 11.800000011920929,38.0,-31.28405625025266
+[03:37:43] [Server thread/INFO]: Ai_vo fell from a high place
+[03:38:03] [Server thread/INFO]: jho5245 fell from a high place
+[03:38:04] [Server thread/INFO]: Ai_vo fell from a high place
+[03:38:05] [Server thread/WARN]: Ai_vo moved too quickly! 15.67824113221522,52.0,-4.400891492519008
+[03:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
+[03:39:56] [Server thread/INFO]: jho5245 fell from a high place
+[03:42:09] [Server thread/INFO]: dongha28 has made the advancement [Diamonds!]
+[03:42:46] [Server thread/INFO]: Ai_vo fell from a high place
+[03:42:47] [Server thread/WARN]: Ai_vo moved too quickly! 97.6502807348876,130.0,40.46547758228405
+[03:44:43] [Server thread/INFO]: Ai_vo has made the advancement [Acquire Hardware]
+[03:44:50] [Server thread/INFO]: Ai_vo has made the advancement [Isn't It Iron Pick]
+[03:48:21] [Server thread/INFO]: dongha28 has made the advancement [Getting an Upgrade]
+[03:49:05] [Server thread/INFO]: [Wnynya: Gamerule lavaSourceConversion is now set to: true]
+[03:49:33] [Server thread/INFO]: Ai_vo fell from a high place
+[03:49:35] [Server thread/WARN]: Ai_vo moved too quickly! -59.71426842492903,52.0,-87.64172503495956
+[03:52:27] [Server thread/INFO]: jho5245 has made the advancement [Acquire Hardware]
+[03:52:33] [Server thread/INFO]: jho5245 has made the advancement [Isn't It Iron Pick]
+[03:52:35] [Server thread/INFO]: jho5245 has made the advancement [Diamonds!]
+[03:55:41] [Server thread/INFO]: jho5245 has made the advancement [Hot Stuff]
+[03:56:01] [Server thread/INFO]: jho5245 tried to swim in lava
+[03:58:51] [Server thread/INFO]: Ai_vo has made the advancement [Sneak 100]
+[04:02:50] [Server thread/INFO]: Ai_vo tried to swim in lava
+[04:02:52] [Server thread/WARN]: Ai_vo moved too quickly! 253.52519814977268,180.0,-229.69187804950002
+[04:02:52] [Server thread/WARN]: Ai_vo moved too quickly! 253.52519814977268,180.0,-229.69187804950002
+[04:04:20] [Server thread/INFO]: Ai_vo fell from a high place
+[04:04:46] [Server thread/INFO]: Wnynya fell off a ladder
+[04:04:48] [Server thread/WARN]: Wnynya moved too quickly! -56.46496680258332,38.0,2.0489844697168564
+[04:07:38] [Server thread/WARN]: gusen1116 moved wrongly!
+[04:08:53] [Server thread/INFO]: gusen1116 has made the advancement [What a Deal!]
+[04:10:57] [Server thread/INFO]: gusen1116 has made the advancement [Suit Up]
+[04:11:10] [Server thread/INFO]: Ai_vo drowned
+[04:11:12] [Server thread/INFO]: Ai_vo has made the advancement [Sweet Dreams]
+[04:24:53] [Server thread/INFO]: Ai_vo has made the advancement [Diamonds!]
+[04:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-34, y=142, z=-3621} gw{x=-34, y=142, z=-3622}
+[04:25:46] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-34, y=142, z=-3622} gw{x=-34, y=141, z=-3622}
+[04:25:46] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-34, y=142, z=-3622} gw{x=-34, y=141, z=-3622}
+[04:25:46] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-34, y=142, z=-3622} gw{x=-34, y=141, z=-3622}
+[04:26:27] [Server thread/INFO]: gusen1116 has made the advancement [Isn't It Iron Pick]
+[04:26:34] [Server thread/INFO]: gusen1116 has made the advancement [Diamonds!]
+[04:28:11] [Server thread/INFO]: gusen1116 has made the advancement [Cover Me with Diamonds]
+[04:33:18] [Server thread/INFO]: gusen1116 tried to swim in lava
+[04:36:55] [Server thread/INFO]: gusen1116 has made the advancement [Ice Bucket Challenge]
+[04:41:51] [Server thread/INFO]: gusen1116 fell from a high place
+[04:41:53] [Server thread/WARN]: gusen1116 moved too quickly! -26.407009292425357,42.0,39.88497579534044
+[04:41:53] [Server thread/WARN]: gusen1116 moved too quickly! -26.407009292425357,42.0,39.88497579534044
+[04:41:53] [Server thread/WARN]: gusen1116 moved too quickly! -26.407009292425357,42.0,39.88497579534044
+[04:41:53] [Server thread/WARN]: gusen1116 moved too quickly! -26.407009292425357,42.0,39.88497579534044
+[04:41:53] [Server thread/WARN]: gusen1116 moved too quickly! -26.407009292425357,42.0,39.88497579534044
+[04:42:31] [Server thread/INFO]: gusen1116 has made the advancement [We Need to Go Deeper]
+[04:42:31] [Server thread/WARN]: Wnynya moved too quickly! -0.7348744348216769,0.756759288177264,-10.22809330542259
+[04:43:16] [Worker-Main-3/ERROR]: Failed to fetch mob spawner entity at (-179, -51, -8878)
+[04:45:17] [Server thread/INFO]: <Wnynya> rfaw
+[04:45:20] [Server thread/INFO]: <Ai_vo> rfaw
+[04:45:22] [Server thread/INFO]: <jho5245> basalt deltas
+[04:45:25] [Server thread/INFO]: <jho5245> rfaw
+[04:45:27] [Server thread/INFO]: <jho5245> ㄱㄻㅈ
+[04:51:31] [Server thread/INFO]: gusen1116 has made the advancement [A Terrible Fortress]
+[04:54:42] [Server thread/INFO]: gusen1116 tried to swim in lava
+[04:56:45] [Server thread/INFO]: gusen1116 has made the advancement [Best Friends Forever]
+[04:57:10] [Server thread/INFO]: Ai_vo drowned
+[04:59:46] [Server thread/INFO]: jho5245 tried to swim in lava
+[04:59:48] [Server thread/WARN]: jho5245 moved too quickly! 1083.3069085233951,180.0,109.87994380248222
+[04:59:48] [Server thread/WARN]: jho5245 moved too quickly! 1083.3069085233951,180.0,109.87994380248222
+[05:00:36] [Server thread/INFO]: jho5245 fell from a high place
+[05:00:37] [Server thread/WARN]: jho5245 moved too quickly! 21.515029361059618,54.0,1.3912393875849602
+[05:01:10] [Server thread/INFO]: jho5245 fell from a high place
+[05:01:11] [Server thread/WARN]: jho5245 moved too quickly! 17.6947622911577,48.0,0.4202211646252181
+[05:01:11] [Server thread/WARN]: jho5245 moved too quickly! 17.6947622911577,48.0,0.4202211646252181
+[05:02:16] [Server thread/INFO]: jho5245 has made the advancement [Fishy Business]
+[05:02:29] [Server thread/INFO]: gusen1116 has made the advancement [Sweet Dreams]
+[05:03:30] [Server thread/INFO]: jho5245 tried to swim in lava
+[05:05:30] [Server thread/INFO]: Ai_vo has made the advancement [Fishy Business]
+[05:05:55] [Server thread/INFO]: Wnynya has made the advancement [Suit Up]
+[05:06:10] [Server thread/INFO]: Ai_vo tried to swim in lava
+[05:06:17] [Server thread/INFO]: jho5245 tried to swim in lava
+[05:07:00] [Server thread/INFO]: <gusen1116> kill Wnynya
+[05:07:01] [Server thread/INFO]: jho5245 fell from a high place
+[05:07:03] [Server thread/WARN]: jho5245 moved too quickly! -109.47950758532926,60.0,-73.78514152834646
+[05:07:14] [Server thread/INFO]: <Wnynya> w
+[05:07:16] [Server thread/INFO]: <Ai_vo> w
+[05:07:27] [Server thread/INFO]: gusen1116 tried to swim in lava
+[05:07:28] [Server thread/WARN]: gusen1116 moved too quickly! -74.80347335581743,59.0,-33.80000001192093
+[05:08:03] [Server thread/INFO]: Wnynya fell from a high place
+[05:08:04] [Server thread/INFO]: Ai_vo fell from a high place
+[05:08:14] [Server thread/INFO]: jho5245 fell from a high place
+[05:08:14] [Server thread/INFO]: gusen1116 was doomed to fall by jho5245
+[05:08:15] [Server thread/WARN]: gusen1116 moved too quickly! -170.4752839899433,57.0,-71.63208926230368
+[05:08:15] [Server thread/WARN]: jho5245 moved too quickly! -170.63060651523625,56.0,-77.93805568629955
+[05:08:32] [Server thread/INFO]: jho5245 has made the advancement [Cover Me with Diamonds]
+[05:08:33] [Server thread/INFO]: Ai_vo has made the advancement [Cover Me with Diamonds]
+[05:09:39] [Server thread/INFO]: dongha28 has made the advancement [A Seedy Place]
+[05:10:02] [Server thread/INFO]: jho5245 has made the advancement [A Seedy Place]
+[05:11:26] [Server thread/INFO]: Ai_vo fell from a high place
+[05:11:27] [Server thread/INFO]: jho5245 fell from a high place
+[05:11:27] [Server thread/WARN]: Ai_vo moved too quickly! -52.04187472307731,33.0,27.93727913384157
+[05:11:28] [Server thread/WARN]: jho5245 moved too quickly! -49.23498966916159,33.0,26.183385786816984
+[05:11:39] [Server thread/INFO]: Ai_vo fell from a high place
+[05:11:40] [Server thread/WARN]: Ai_vo moved too quickly! -46.79951660348178,19.0,24.47818402283201
+[05:11:54] [Server thread/INFO]: Ai_vo fell from a high place
+[05:12:04] [Server thread/INFO]: jho5245 fell from a high place
+[05:12:17] [Server thread/INFO]: jho5245 fell from a high place
+[05:12:23] [Server thread/INFO]: gusen1116 fell from a high place
+[05:12:24] [Server thread/WARN]: gusen1116 moved too quickly! -61.82025897947807,53.0,1.6729224145936996
+[05:12:24] [Server thread/WARN]: gusen1116 moved too quickly! -61.82025897947807,53.0,1.6729224145936996
+[05:12:24] [Server thread/WARN]: gusen1116 moved too quickly! -61.82025897947807,53.0,1.6729224145936996
+[05:12:24] [Server thread/WARN]: gusen1116 moved too quickly! -61.82025897947807,53.0,1.6729224145936996
+[05:12:36] [Server thread/INFO]: gusen1116 fell from a high place
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:12:37] [Server thread/WARN]: gusen1116 moved too quickly! -62.726422588988015,53.0,1.321401483091563
+[05:18:32] [Server thread/INFO]: Ai_vo fell from a high place
+[05:18:43] [Server thread/INFO]: jho5245 fell from a high place
+[05:18:45] [Server thread/WARN]: jho5245 moved too quickly! 363.0069520752131,30.0,-3.1647445065391366
+[05:20:29] [Server thread/INFO]: Ai_vo lost connection: Disconnected
+[05:20:29] [Server thread/INFO]: Ai_vo left the game
+[05:20:32] [User Authenticator #8/INFO]: UUID of player Ai_vo is 94335522-0b70-4365-8ad3-ecd74c77d8a3
+[05:20:32] [Server thread/INFO]: Ai_vo[/116.43.223.92:9380] logged in with entity id 83312 at (175.69004362313834, 130.9375, 945.4975047836994)
+[05:20:32] [Server thread/INFO]: Ai_vo joined the game
+[05:23:16] [Server thread/INFO]: gusen1116 fell from a high place
+[05:23:17] [Server thread/WARN]: gusen1116 moved too quickly! -104.23915133334452,62.0,-70.7935035329042
+[05:23:17] [Server thread/WARN]: gusen1116 moved too quickly! -104.23915133334452,62.0,-70.7935035329042
+[05:23:17] [Server thread/WARN]: gusen1116 moved too quickly! -104.23915133334452,62.0,-70.7935035329042
+[05:23:17] [Server thread/WARN]: gusen1116 moved too quickly! -104.23915133334452,62.0,-70.7935035329042
+[05:23:25] [Server thread/INFO]: Ai_vo fell from a high place
+[05:23:26] [Server thread/WARN]: Ai_vo moved too quickly! -79.93215642866926,60.0,-67.13406867592039
+[05:23:27] [Server thread/INFO]: jho5245 fell from a high place
+[05:24:17] [Server thread/INFO]: Ai_vo lost connection: Disconnected
+[05:24:17] [Server thread/INFO]: Ai_vo left the game
+[05:24:21] [User Authenticator #9/INFO]: UUID of player Ai_vo is 94335522-0b70-4365-8ad3-ecd74c77d8a3
+[05:24:21] [Server thread/INFO]: Ai_vo[/116.43.223.92:9399] logged in with entity id 83878 at (295.3701659321326, 93.23834020256585, 1046.4482817106957)
+[05:24:21] [Server thread/INFO]: Ai_vo joined the game
+[05:24:41] [Server thread/INFO]: Wnynya has made the advancement [Ice Bucket Challenge]
+[05:24:55] [Server thread/INFO]: Ai_vo tried to swim in lava
+[05:28:20] [Server thread/INFO]: jho5245 fell from a high place
+[05:28:21] [Server thread/WARN]: jho5245 moved too quickly! -16.033774467591797,179.0,-11.804425902323487
+[05:29:16] [Server thread/INFO]: jho5245 fell from a high place
+[05:29:17] [Server thread/WARN]: jho5245 moved too quickly! -15.800000011920929,179.0,-12.188670227923922
+[05:29:17] [Server thread/WARN]: jho5245 moved too quickly! -15.800000011920929,179.0,-12.188670227923922
+[05:29:35] [Server thread/INFO]: gusen1116 was slain by Ai_vo
+[05:29:36] [Server thread/WARN]: gusen1116 moved too quickly! -110.32745218386844,9.0,-73.48650090054093
+[05:29:36] [Server thread/WARN]: gusen1116 moved too quickly! -110.32745218386844,9.0,-73.48650090054093
+[05:29:36] [Server thread/WARN]: gusen1116 moved too quickly! -110.32745218386844,9.0,-73.48650090054093
+[05:29:48] [Server thread/INFO]: Ai_vo was doomed to fall by gusen1116
+[05:30:06] [Server thread/INFO]: gusen1116 fell from a high place
+[05:30:07] [Server thread/WARN]: gusen1116 moved too quickly! -57.1443732339101,27.0,1.7083576596495504
+[05:30:07] [Server thread/WARN]: gusen1116 moved too quickly! -57.1443732339101,27.0,1.7083576596495504
+[05:30:07] [Server thread/WARN]: gusen1116 moved too quickly! -57.1443732339101,27.0,1.7083576596495504
+[05:30:19] [Server thread/INFO]: jho5245 fell from a high place
+[05:30:34] [Server thread/INFO]: gusen1116 has made the advancement [Hot Stuff]
+[05:30:39] [Server thread/INFO]: <jho5245> 가죽 46개
+[05:30:49] [Server thread/INFO]: <jho5245> requires
+[05:31:27] [Server thread/INFO]: Ai_vo has made the advancement [Ice Bucket Challenge]
+[05:32:31] [Server thread/INFO]: Wnynya fell off a ladder
+[05:32:33] [Server thread/WARN]: Wnynya moved too quickly! -16.80000001192093,179.0,-10.03617965706826
+[05:32:33] [Server thread/WARN]: Wnynya moved too quickly! -16.80000001192093,179.0,-10.03617965706826
+[05:35:44] [Server thread/INFO]: Ai_vo has made the advancement [We Need to Go Deeper]
+[05:37:15] [Server thread/INFO]: Ai_vo discovered the floor was lava
+[05:37:17] [Server thread/WARN]: Ai_vo moved too quickly! -101.31663981350476,61.0,-3.0043832785248696
+[05:41:18] [Server thread/INFO]: Ai_vo fell from a high place
+[05:41:19] [Server thread/WARN]: Ai_vo moved too quickly! 14.871122877795045,52.0,1.7885761591904838
+[05:41:24] [Server thread/INFO]: Ai_vo fell from a high place
+[05:41:25] [Server thread/WARN]: Ai_vo moved too quickly! 7.845324453189221,27.0,3.9448739710625205
+[05:45:08] [Server thread/INFO]: Ai_vo drowned
+[05:45:17] [Server thread/WARN]: Ai_vo moved too quickly! 120.84024891756486,167.04539608490308,-22.539989361479
+[05:45:17] [Server thread/WARN]: Ai_vo moved too quickly! 120.84024891756486,167.04539608490308,-22.539989361479
+[05:46:10] [Server thread/INFO]: jho5245 tried to swim in lava
+[05:49:40] [Server thread/INFO]: gusen1116 fell from a high place
+[05:49:41] [Server thread/WARN]: gusen1116 moved too quickly! -11.859363110643727,41.0,-18.56647407818548
+[05:49:41] [Server thread/WARN]: gusen1116 moved too quickly! -11.859363110643727,41.0,-18.56647407818548
+[05:49:41] [Server thread/WARN]: gusen1116 moved too quickly! -11.859363110643727,41.0,-18.56647407818548
+[05:55:00] [Server thread/INFO]: jho5245 has made the advancement [Ice Bucket Challenge]
+[06:00:46] [Server thread/INFO]: Wnynya fell from a high place
+[06:00:47] [Server thread/WARN]: Wnynya moved too quickly! -13.110235036259326,38.0,-9.780878144608664
+[06:00:47] [Server thread/WARN]: Wnynya moved too quickly! -13.110235036259326,38.0,-9.780878144608664
+[06:03:00] [Server thread/INFO]: Wnynya fell off a ladder
+[06:03:01] [Server thread/WARN]: Wnynya moved too quickly! -18.80000001192093,179.0,-10.180350119295895
+[06:06:30] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=260, y=62, z=884} gw{x=260, y=61, z=884}
+[06:08:47] [Server thread/INFO]: Ai_vo suffocated in a wall
+[06:08:51] [Server thread/WARN]: Ai_vo moved too quickly! -101.86193315537679,58.0,-8.800000011920929
+[06:08:59] [Server thread/INFO]: gusen1116 lost connection: Disconnected
+[06:08:59] [Server thread/INFO]: gusen1116 left the game
+[06:09:02] [User Authenticator #10/INFO]: UUID of player gusen1116 is 517271e2-ac36-44a2-b980-fc8df0c99ad7
+[06:09:02] [Server thread/INFO]: gusen1116[/211.193.87.38:14756] logged in with entity id 95679 at (240.23312687469445, 75.47299598655941, 1035.7199504001248)
+[06:09:02] [Server thread/INFO]: gusen1116 joined the game
+[06:09:03] [Server thread/INFO]: gusen1116 fell from a high place
+[06:09:04] [Server thread/WARN]: gusen1116 moved too quickly! -62.73312687469445,57.0,-64.21995040012484
+[06:13:36] [Server thread/INFO]: Ai_vo lost connection: Disconnected
+[06:13:36] [Server thread/INFO]: Ai_vo left the game
+[06:13:38] [User Authenticator #11/INFO]: UUID of player Ai_vo is 94335522-0b70-4365-8ad3-ecd74c77d8a3
+[06:13:39] [Server thread/INFO]: Ai_vo[/116.43.223.92:9927] logged in with entity id 97484 at (239.7795500337163, 84.10506856257892, 1002.5594837656041)
+[06:13:39] [Server thread/INFO]: Ai_vo joined the game
+[06:13:39] [Server thread/INFO]: Ai_vo fell from a high place
+[06:15:57] [Server thread/INFO]: Wnynya fell from a high place
+[06:15:58] [Server thread/WARN]: Wnynya moved too quickly! -7.199999988079071,50.0,-10.509675622092232
+[06:16:46] [Server thread/INFO]: Wnynya fell from a high place
+[06:16:47] [Server thread/WARN]: Wnynya moved too quickly! -34.55579311794571,34.0,37.845509992806456
+[06:16:59] [Server thread/INFO]: gusen1116 drowned
+[06:17:00] [Server thread/WARN]: gusen1116 moved too quickly! -9.526416357864008,77.0,1062.9190033214327
+[06:17:00] [Server thread/WARN]: gusen1116 moved too quickly! -9.526416357864008,77.0,1062.9190033214327
+[06:17:00] [Server thread/WARN]: gusen1116 moved too quickly! -9.526416357864008,77.0,1062.9190033214327
+[06:17:33] [Server thread/INFO]: Ai_vo fell from a high place
+[06:18:57] [Server thread/INFO]: Wnynya drowned
+[06:19:05] [Server thread/WARN]: Wnynya moved too quickly! -9.075675610496091,70.0,114.26189327894213
+[06:19:05] [Server thread/WARN]: Wnynya moved too quickly! -9.075675610496091,70.0,114.26189327894213
+[06:20:58] [Server thread/INFO]: Ai_vo tried to swim in lava
