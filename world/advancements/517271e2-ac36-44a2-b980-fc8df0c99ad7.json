@@ -8,26 +8,32 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2023-11-15 03:40:51 +0900",
-      "minecraft:beach": "2023-11-15 03:32:20 +0900",
-      "minecraft:dark_forest": "2023-11-15 03:34:04 +0900",
+      "minecraft:snowy_slopes": "2023-11-21 21:31:08 +0900",
       "minecraft:forest": "2023-11-15 03:22:09 +0900",
       "minecraft:taiga": "2023-11-15 04:01:58 +0900",
-      "minecraft:sparse_jungle": "2023-11-15 06:13:30 +0900",
       "minecraft:deep_ocean": "2023-11-15 03:35:57 +0900",
-      "minecraft:river": "2023-11-15 03:29:37 +0900",
-      "minecraft:stony_shore": "2023-11-15 03:34:37 +0900",
       "minecraft:lush_caves": "2023-11-15 04:24:11 +0900",
-      "minecraft:dripstone_caves": "2023-11-15 03:22:03 +0900",
       "minecraft:deep_cold_ocean": "2023-11-15 03:36:40 +0900",
-      "minecraft:old_growth_birch_forest": "2023-11-15 03:33:32 +0900",
-      "minecraft:deep_dark": "2023-11-15 04:25:53 +0900",
+      "minecraft:ice_spikes": "2023-11-21 21:34:27 +0900",
+      "minecraft:frozen_river": "2023-11-21 21:33:45 +0900",
       "minecraft:ocean": "2023-11-15 03:35:38 +0900",
       "minecraft:cherry_grove": "2023-11-15 05:05:32 +0900",
+      "minecraft:birch_forest": "2023-11-15 03:30:04 +0900",
+      "minecraft:bamboo_jungle": "2023-11-15 06:14:20 +0900",
+      "minecraft:beach": "2023-11-15 03:32:20 +0900",
+      "minecraft:dark_forest": "2023-11-15 03:34:04 +0900",
+      "minecraft:sparse_jungle": "2023-11-15 06:13:30 +0900",
+      "minecraft:river": "2023-11-15 03:29:37 +0900",
+      "minecraft:stony_shore": "2023-11-15 03:34:37 +0900",
+      "minecraft:snowy_plains": "2023-11-21 21:33:50 +0900",
+      "minecraft:dripstone_caves": "2023-11-15 03:22:03 +0900",
+      "minecraft:snowy_taiga": "2023-11-21 21:37:38 +0900",
+      "minecraft:frozen_peaks": "2023-11-21 21:31:18 +0900",
+      "minecraft:old_growth_birch_forest": "2023-11-15 03:33:32 +0900",
+      "minecraft:deep_dark": "2023-11-15 04:25:53 +0900",
       "minecraft:grove": "2023-11-15 04:03:52 +0900",
       "minecraft:meadow": "2023-11-15 04:09:36 +0900",
-      "minecraft:birch_forest": "2023-11-15 03:30:04 +0900",
       "minecraft:savanna": "2023-11-15 06:11:35 +0900",
-      "minecraft:bamboo_jungle": "2023-11-15 06:14:20 +0900",
       "minecraft:plains": "2023-11-15 03:30:37 +0900"
     },
     "done": false
@@ -2328,7 +2334,8 @@
     "criteria": {
       "bread": "2023-11-16 00:22:34 +0900",
       "cooked_beef": "2023-11-18 14:18:55 +0900",
-      "baked_potato": "2023-11-16 00:32:49 +0900"
+      "baked_potato": "2023-11-16 00:32:49 +0900",
+      "melon_slice": "2023-11-21 19:56:56 +0900"
     },
     "done": false
   },
@@ -2430,15 +2437,22 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-11-20 21:59:58 +0900",
       "minecraft:skeleton": "2023-11-18 12:14:55 +0900",
       "minecraft:zombified_piglin": "2023-11-18 19:32:14 +0900",
-      "minecraft:magma_cube": "2023-11-17 17:40:25 +0900",
-      "minecraft:spider": "2023-11-16 01:24:31 +0900",
+      "minecraft:witch": "2023-11-20 22:01:59 +0900",
       "minecraft:wither_skeleton": "2023-11-17 17:23:49 +0900",
+      "minecraft:ravager": "2023-11-20 22:03:19 +0900",
+      "minecraft:ghast": "2023-11-18 12:59:09 +0900",
+      "minecraft:hoglin": "2023-11-18 19:28:12 +0900",
+      "minecraft:vindicator": "2023-11-20 22:03:13 +0900",
+      "minecraft:magma_cube": "2023-11-17 17:40:25 +0900",
+      "minecraft:endermite": "2023-11-19 22:08:47 +0900",
+      "minecraft:spider": "2023-11-16 01:24:31 +0900",
       "minecraft:zombie": "2023-11-16 01:24:26 +0900",
       "minecraft:creeper": "2023-11-16 17:46:33 +0900",
-      "minecraft:ghast": "2023-11-18 12:59:09 +0900",
-      "minecraft:hoglin": "2023-11-18 19:28:12 +0900"
+      "minecraft:slime": "2023-11-19 20:45:07 +0900",
+      "minecraft:evoker": "2023-11-20 22:11:01 +0900"
     },
     "done": false
   },
@@ -3345,6 +3359,210 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2023-11-18 19:22:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-11-19 20:45:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-11-19 20:45:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-11-19 20:45:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2023-11-19 22:10:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2023-11-19 22:10:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-11-19 22:10:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-11-19 22:27:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-11-20 22:11:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-11-21 19:49:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-11-21 19:49:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-21 19:49:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-11-21 19:56:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-11-21 19:49:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-11-21 19:50:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-21 19:49:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2023-11-21 19:58:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-11-21 19:49:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-11-21 19:50:52 +0900"
     },
     "done": true
   },
